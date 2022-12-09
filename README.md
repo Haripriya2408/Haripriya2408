@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Haripriya2408
 - 👀 I’m interested in android development 
 - 🌱 I’m currently learning computer science and Engineering 
-- 💞️ I’m looking to collaborate on amazon
 - 📫 How to reach me conduct via mail haripriyaveluchamy@gmail.com 
 
 <!---

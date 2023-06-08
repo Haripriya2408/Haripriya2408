@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Haripriya2408
-- 🌱 I’m currently learning computer science and Engineering 
+- 🌱 I’m currently doing computer science and Engineering 
 - 📫 How to reach me conduct via mail haripriyaveluchamy@gmail.com 
 
 <!---

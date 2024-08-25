@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Haripriya Veluchamy
-- 🤖 I am a fullstack web developer 
+- 👋 Hi, I’m Haripriya Veluchamy 
 - 📫 How to reach me conduct via mail haripriyaveluchamy@gmail.com
 - 🧑‍ 💻my LinkedIn account https://www.linkedin.com/in/haripriyaveluchamy 
 
